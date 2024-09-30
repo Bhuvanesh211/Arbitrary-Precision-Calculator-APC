@@ -30,8 +30,5 @@ Special care is taken for handling zero inputs and other corner cases to optimiz
 ## Requirements
 1. The user will enter two big numbers along with an operator in the terminal, e.g., `x+y`, where `x` and `y` are very large numbers and `+` is the operation to be performed.
 2. The application will perform the operation based on the user input and display the result.
-
-## User Interface
-1. **Run the Application**
-   ```sh
-   ./apc
+  
+   
